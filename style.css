@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(255, 250, 205);
+}
+h2 {
+  border: 5px solid rgb(7, 219, 247);
+}
+h3 {
+  border: 5px solid powderblue;
+}
+text {
+  background-color: blueviolet;
+}
